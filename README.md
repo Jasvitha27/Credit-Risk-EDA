@@ -101,5 +101,5 @@ Files used in this project include:
 **Bareddy Jasvitha**
 
 - GitHub: https://github.com/Jasvitha27
-- LinkedIn: *(Add your LinkedIn profile link here)*
+- LinkedIn: *(https://www.linkedin.com/in/bareddy-jasvitha-4a7227336/)*
 - Email: jasvithareddy9487@gmail.com
