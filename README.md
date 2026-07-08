@@ -2,18 +2,18 @@
 
 ## 📌 Project Overview
 
-This project performs Exploratory Data Analysis (EDA) on a Credit Risk dataset to understand customer characteristics and identify factors that influence loan default. The analysis includes data cleaning, handling missing values, feature engineering, and visualization to extract meaningful insights.
+This project performs **Exploratory Data Analysis (EDA)** on the Home Credit Default Risk dataset to understand customer characteristics and identify patterns associated with loan repayment behavior. The project includes data cleaning, handling missing values, exploratory visualization, and deriving business insights from historical credit data.
 
 ---
 
 ## 🎯 Objectives
 
-- Understand the dataset structure
-- Clean and preprocess the data
-- Handle missing values
-- Perform univariate and bivariate analysis
-- Visualize important trends and relationships
-- Generate insights related to credit risk
+- Understand the structure of the credit risk dataset.
+- Clean and preprocess the data.
+- Handle missing values and inconsistent records.
+- Perform univariate and bivariate analysis.
+- Visualize important relationships between variables.
+- Generate insights useful for credit risk assessment.
 
 ---
 
@@ -28,7 +28,7 @@ This project performs Exploratory Data Analysis (EDA) on a Credit Risk dataset t
 
 ---
 
-## 📂 Project Files
+## 📂 Project Structure
 
 ```
 Credit-Risk-EDA/
@@ -38,31 +38,61 @@ Credit-Risk-EDA/
 
 ---
 
-## 📊 Analysis Performed
+## 📊 Exploratory Data Analysis
 
+The notebook includes:
+
+- Data Loading
 - Data Cleaning
 - Missing Value Analysis
-- Exploratory Data Analysis
+- Descriptive Statistics
+- Univariate Analysis
+- Bivariate Analysis
 - Correlation Analysis
-- Feature-wise Visualization
+- Data Visualization
 - Business Insights
 
 ---
 
 ## 📈 Key Insights
 
-- Identified patterns in customer financial attributes.
-- Analyzed relationships between important variables.
-- Visualized feature distributions using multiple plots.
-- Generated insights useful for understanding credit risk.
+- Explored customer demographic and financial information.
+- Identified missing values and handled them appropriately.
+- Analyzed relationships between previous loan applications and customer behavior.
+- Visualized feature distributions using various statistical plots.
+- Generated insights useful for understanding credit risk and loan approval patterns.
 
 ---
 
 ## 📌 Dataset
 
-The dataset used in this project is publicly available for educational purposes.
+This project is based on the **Home Credit Default Risk** dataset available on Kaggle.
 
-**Note:** The dataset is not included in this repository due to GitHub's file size limitations.
+### Competition Dataset
+
+https://www.kaggle.com/competitions/home-credit-default-risk/data
+
+### Additional Dataset
+
+If you are using the separate EDA dataset in your notebook, it is available here:
+
+https://www.kaggle.com/datasets/harshitachandel08/credit-eda-dataset
+
+Files used in this project include:
+
+- application_train.csv
+- previous_application.csv
+
+**Note:** The datasets are not included in this repository because of GitHub's file size limitations. Please download them directly from the Kaggle links above.
+
+---
+
+## 🚀 Future Improvements
+
+- Feature Engineering
+- Credit Risk Prediction using Machine Learning
+- Model Evaluation
+- Interactive Dashboard using Plotly
 
 ---
 
@@ -71,3 +101,5 @@ The dataset used in this project is publicly available for educational purposes.
 **Bareddy Jasvitha**
 
 - GitHub: https://github.com/Jasvitha27
+- LinkedIn: *(Add your LinkedIn profile link here)*
+- Email: jasvithareddy9487@gmail.com
